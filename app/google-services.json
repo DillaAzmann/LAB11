@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "734143038581",
+    "firebase_url": "https://dillaazman-ab510.firebaseio.com",
+    "project_id": "dillaazman-ab510",
+    "storage_bucket": "dillaazman-ab510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734143038581:android:839e53b15eb0182b",
+        "android_client_info": {
+          "package_name": "com.example.user.lab11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734143038581-odcdt3fenstootvtivv02iaif5es3fsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5aBTQRUlLRxbBStWBAR1-kCpCDMFC1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
